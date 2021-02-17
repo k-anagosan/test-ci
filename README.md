@@ -1,3 +1,3 @@
-# circleci test
+# CircleCI test
 
 ## TEST README.md
